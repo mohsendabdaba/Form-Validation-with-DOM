@@ -1,0 +1,5 @@
+div>
+                  <label for="exampleInputEmail1">Email address:</label>
+                  <input type="email" name="E-mail Address:" class="textInput"  placeholder="Enter E-mail">
+                  <div id="email_error" class="val_error"></div>
+                </div>

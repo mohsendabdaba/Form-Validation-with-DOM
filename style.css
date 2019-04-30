@@ -1,0 +1,32 @@
+body{
+    position: relative;
+    margin:0px;
+    top:0px; 
+    background-color:  lightblue ;     
+}
+
+
+.form-group1 {
+   margin: 2% 35%;
+ }
+ .form-group2 {
+ margin: 2% 35%;
+        
+        }         
+.form-group3 {
+    margin: 2% 35%;
+
+}
+
+.form-group4 {
+    margin: 1% 35%;
+  }
+  .form-group5 {
+  margin: 1% 35%;
+         
+         }         
+ .form-group6 {
+     margin: 1% 35%;
+     background-color:white;
+ 
+ }
